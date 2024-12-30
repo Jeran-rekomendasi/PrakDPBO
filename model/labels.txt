@@ -1,0 +1,3 @@
+0 Kucing Persia
+1 Kucing Raqdoll
+2 Kucing Sphynx
